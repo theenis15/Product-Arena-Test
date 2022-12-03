@@ -15,3 +15,6 @@ U Postman-u sam napravio kolekciju te sam kroz link "http://127.0.0.1:5000/" i r
 
 Sa nadom da cu pokazanim znanjem ostaviti pozitivan utisak kako bi prosao u drugi krug prakse, zelim Vam laksi i uspjesniji dan nego sto se nadate! 
 Denis Mulalic.
+
+
+*Zbog tog jer je imgur sporo upload-ovao moje skice, upload-ovao sam ovdje 2 slike skica koje nisam poslao. Nadam se da ce, sto bi se reklo 'piti vode' :)
